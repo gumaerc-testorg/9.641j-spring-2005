@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Discussion Group
 uid: b72b7139-2fc9-6945-22cc-156bc573d8fb
 ---
