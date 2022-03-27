@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec12_hamilton.pdf
 uid: 2a75092b-89ee-55df-9d7d-6ed5e1855fec

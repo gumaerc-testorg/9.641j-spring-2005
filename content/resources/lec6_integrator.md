@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec6_integrator.pdf
 uid: f9809bb7-09ee-a9c6-f5b9-a7dd2e79dec4

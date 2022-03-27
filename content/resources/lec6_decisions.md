@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec6_decisions.pdf
 uid: 4ecd6970-366a-afed-2a6f-9c835f753f56

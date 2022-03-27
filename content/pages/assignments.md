@@ -106,7 +106,7 @@ Problem Set 9: Delta Rule and Gradient Descent ([PDF]({{< baseurl >}}/resources/
 {{< tdopen >}}
 ps9faces.mat ([MAT]({{< baseurl >}}/resources/ps9faces))  
   
-perceptron\_delta.m ([M](/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/assignments/perceptron_delta.m))  
+perceptron\_delta.m ([M]({{< baseurl >}}/resources/perceptron_delta))  
   
 mnistabridged.mat ([MAT]({{< baseurl >}}/resources/mnistabridged))
 {{< tdclose >}}

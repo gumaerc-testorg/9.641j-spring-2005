@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec6_selectivity.pdf
 uid: 08794f21-2690-29e9-a847-9198d2b66f55

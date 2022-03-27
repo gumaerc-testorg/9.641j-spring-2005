@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec21_backprop2.pdf
 uid: 67a3f09e-7a61-379c-b294-e7a7d5ef40a2

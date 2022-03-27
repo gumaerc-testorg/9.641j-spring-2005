@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
 resourcetype: Other
 title: mnistabridged.mat
 uid: 93ad567c-b4b9-e5b7-f9b0-5bcee01654bf

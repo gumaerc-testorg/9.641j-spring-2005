@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
 resourcetype: Other
 title: ps9faces.mat
 uid: a1c9bbb2-3121-0ed0-227e-e44935dbcc59

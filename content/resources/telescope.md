@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
 resourcetype: Other
 title: telescope.mat
 uid: aa9beb10-b6e2-9d8a-fc3e-714bfadfc6e2
