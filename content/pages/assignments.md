@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
 ---
@@ -27,7 +28,7 @@ SUPPORTING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1: Integrate-and-Fire Neurons ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1: Integrate-and-Fire Neurons ({{< resource_link eda310d7-3248-0be8-02ee-4ef475f0237d "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -36,7 +37,7 @@ Problem Set 1: Integrate-and-Fire Neurons ([PDF]({{< baseurl >}}/resources/ps1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2: Perceptrons and Linear Networks ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2: Perceptrons and Linear Networks ({{< resource_link 834b018d-e866-aeb6-908d-fb9fa98c2080 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -45,7 +46,7 @@ Problem Set 2: Perceptrons and Linear Networks ([PDF]({{< baseurl >}}/resources/
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3: Nonlinear Networks ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3: Nonlinear Networks ({{< resource_link 9d891a41-7edb-4d3e-0e4c-7df753ad9aea "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,7 +55,7 @@ Problem Set 3: Nonlinear Networks ([PDF]({{< baseurl >}}/resources/ps3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4: Lyapunov Functions ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4: Lyapunov Functions ({{< resource_link 2c7cf410-10f4-508b-651b-426a234efb79 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -63,7 +64,7 @@ Problem Set 4: Lyapunov Functions ([PDF]({{< baseurl >}}/resources/ps4))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5: Nonlinear Network Theory Again ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 5: Nonlinear Network Theory Again ({{< resource_link 624c60d4-20da-2ffb-249b-3bdac56c383b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -72,16 +73,16 @@ Problem Set 5: Nonlinear Network Theory Again ([PDF]({{< baseurl >}}/resources/p
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6: Deconvolution and Antisymmetric Networks ([PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6: Deconvolution and Antisymmetric Networks ({{< resource_link ba6f3f5c-c5ea-8476-17b0-97a35909035d "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-telescope.mat ([MAT]({{< baseurl >}}/resources/telescope))
+telescope.mat ({{< resource_link aa9beb10-b6e2-9d8a-fc3e-714bfadfc6e2 "MAT" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 7: Models of Associative Memory ([PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7: Models of Associative Memory ({{< resource_link 553eee22-0dcb-26ea-4b6a-38b0650ef526 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -90,36 +91,36 @@ Problem Set 7: Models of Associative Memory ([PDF]({{< baseurl >}}/resources/ps7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8: PCA, k-means, and Ring Network ([PDF]({{< baseurl >}}/resources/ps8))
+Problem Set 8: PCA, k-means, and Ring Network ({{< resource_link b54a04d8-0493-afc9-9753-7233b126afe7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-faces.mat ([MAT]({{< baseurl >}}/resources/faces))  
+faces.mat ({{< resource_link 694a1a35-846f-05a7-fdb7-e0a06760baed "MAT" >}})  
   
-kmeans.mat ([MAT]({{< baseurl >}}/resources/kmeans))
+kmeans.mat ({{< resource_link f5af0e96-c22e-57b7-1e85-610fef6a767e "MAT" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 9: Delta Rule and Gradient Descent ([PDF]({{< baseurl >}}/resources/ps9))
+Problem Set 9: Delta Rule and Gradient Descent ({{< resource_link 03dbe288-7221-66b9-028d-dd0a6c33a570 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-ps9faces.mat ([MAT]({{< baseurl >}}/resources/ps9faces))  
+ps9faces.mat ({{< resource_link a1c9bbb2-3121-0ed0-227e-e44935dbcc59 "MAT" >}})  
   
-perceptron\_delta.m ([M]({{< baseurl >}}/resources/perceptron_delta))  
+perceptron\_delta.m ([M](/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/assignments/perceptron_delta.m))  
   
-mnistabridged.mat ([MAT]({{< baseurl >}}/resources/mnistabridged))
+mnistabridged.mat ({{< resource_link 93ad567c-b4b9-e5b7-f9b0-5bcee01654bf "MAT" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 10: Backpropagation, and Trajectory Learning ([PDF]({{< baseurl >}}/resources/ps10))
+Problem Set 10: Backpropagation, and Trajectory Learning ({{< resource_link f53d4682-0d78-4f1d-6a1b-466761e71ad2 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-ps9faces.mat ([MAT]({{< baseurl >}}/resources/ps9faces))  
+ps9faces.mat ({{< resource_link a1c9bbb2-3121-0ed0-227e-e44935dbcc59 "MAT" >}})  
   
-mnistabridged.mat ([MAT]({{< baseurl >}}/resources/mnistabridged))
+mnistabridged.mat ({{< resource_link 93ad567c-b4b9-e5b7-f9b0-5bcee01654bf "MAT" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
