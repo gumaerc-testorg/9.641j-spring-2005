@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The syllabus section contains course philosophy, prerequisites, course
+  requirements, and the grading criteria for this course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 7ea9a1e8-a4c4-e67d-bec1-a73d40bb0c59
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
