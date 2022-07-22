@@ -6,6 +6,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/c2889b24425a8b
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: perceptron_delta.m
 uid: c2889b24-425a-8bf6-83d9-1b0c36fa96ce
 ---
 This resource includes special .m files to suppliment the contents in problem set 9.
-

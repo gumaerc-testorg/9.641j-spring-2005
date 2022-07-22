@@ -7,6 +7,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/38553a93bde5ed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on two neural populations, minimax, multiple goals, synaptic interactions, matrix-vector notation, saddle function, and pseudo gradient.
-

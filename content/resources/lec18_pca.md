@@ -8,6 +8,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/e305ef5d2ff86d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on hebbiansynaptic plasticity enables perceptronsto perform principal component analysis, variance and covariance, principal components, maximizing parallel variance, minimizing perpendicular variance, and neural implementation.
-

@@ -6,6 +6,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/aa9beb10b6e29d
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes special .mat files to suppliment the contents in problem set 6.
-

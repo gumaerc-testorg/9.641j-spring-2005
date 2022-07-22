@@ -5,6 +5,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/a5e7be50b7e7b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

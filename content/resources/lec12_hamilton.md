@@ -6,6 +6,7 @@ file: /courses/9-641j-introduction-to-neural-networks-spring-2005/2a75092b89ee55
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on harmonic oscillator, dissipation, symmetric network, hamiltonian form, energy dissipation, and antisymmetric networks.
-
