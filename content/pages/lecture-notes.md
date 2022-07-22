@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The lecture notes section conatins the lecture notes files for respective
+  lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -22,7 +31,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-From Spikes to Rates ([PDF]({{< baseurl >}}/resources/lec1_appendix_e))
+From Spikes to Rates ({{% resource_link 5f23aec2-0dd6-203c-1dd4-2d827ce518ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +76,7 @@ Retina
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Lateral Inhibition and Feature Selectivity ([PDF 1]({{< baseurl >}}/resources/lec6_selectivity)) ([PDF 2]({{< baseurl >}}/resources/lec6_decisions)) ([PDF 3]({{< baseurl >}}/resources/lec6_integrator))
+Lateral Inhibition and Feature Selectivity ({{% resource_link 08794f21-2690-29e9-a847-9198d2b66f55 "PDF 1" %}}) ({{% resource_link 4ecd6970-366a-afed-2a6f-9c835f753f56 "PDF 2" %}}) ({{% resource_link f9809bb7-09ee-a9c6-f5b9-a7dd2e79dec4 "PDF 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +134,7 @@ Signal Reconstruction
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Hamiltonian Dynamics ([PDF]({{< baseurl >}}/resources/lec12_hamilton))
+Hamiltonian Dynamics ({{% resource_link 2a75092b-89ee-55df-9d7d-6ed5e1855fec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +143,7 @@ Hamiltonian Dynamics ([PDF]({{< baseurl >}}/resources/lec12_hamilton))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Antisymmetric Networks ([PDF]({{< baseurl >}}/resources/lec13_antisym))
+Antisymmetric Networks ({{% resource_link 8332a815-ae1f-c9cd-a728-31442afcb29d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +152,7 @@ Antisymmetric Networks ([PDF]({{< baseurl >}}/resources/lec13_antisym))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Excitatory-Inhibitory Networks ([PDF]({{< baseurl >}}/resources/lec14_excinh))  
+Excitatory-Inhibitory Networks ({{% resource_link 38553a93-bde5-edde-52ef-3a93c6506fc4 "PDF" %}})  
   
 Learning
 {{< tdclose >}}
@@ -185,9 +194,9 @@ Clustering
 18
 {{< tdclose >}}
 {{< tdopen >}}
-VQ ([PDF]({{< baseurl >}}/resources/lec18_vq))  
+VQ ({{% resource_link 1059a919-d43e-97b2-2e32-921f09eedbd7 "PDF" %}})  
   
-PCA ([PDF]({{< baseurl >}}/resources/lec18_pca))
+PCA ({{% resource_link e305ef5d-2ff8-6d1d-fb67-5dd83d30a5d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +207,7 @@ PCA ([PDF]({{< baseurl >}}/resources/lec18_pca))
 {{< tdopen >}}
 More PCA  
   
-Delta Rule ([PDF]({{< baseurl >}}/resources/lec19_delta))
+Delta Rule ({{% resource_link 3a747021-6413-6092-9b61-31a373adc9c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,9 +216,9 @@ Delta Rule ([PDF]({{< baseurl >}}/resources/lec19_delta))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Conditioning ([PDF]({{< baseurl >}}/resources/lec20_pavlov))  
+Conditioning ({{% resource_link ab8be687-4bd9-4a55-249e-f3e21b7248d5 "PDF" %}})  
   
-Backpropagation ([PDF]({{< baseurl >}}/resources/lec20_backprop))
+Backpropagation ({{% resource_link 5d46d3b6-e32a-5120-fe98-93193c31e926 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +227,7 @@ Backpropagation ([PDF]({{< baseurl >}}/resources/lec20_backprop))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-More Backpropagation ([PDF]({{< baseurl >}}/resources/lec21_backprop2))
+More Backpropagation ({{% resource_link 67a3f09e-7a61-379c-b294-e7a7d5ef40a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
