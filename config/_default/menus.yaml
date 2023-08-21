@@ -19,7 +19,3 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 50
-- identifier: b72b7139-2fc9-6945-22cc-156bc573d8fb
-  name: Discussion Group
-  url: /pages/discussion-group
-  weight: 60
