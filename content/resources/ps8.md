@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on double-ring network model, principal
   component analysis, and clustering with K-means.
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/b54a04d80493afc997537233b126afe7_ps8.pdf
+file_size: 103378
 file_type: application/pdf
 learning_resource_types:
 - Assignments
