@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/a5e7be50b7e7b2610c5fc5359cf6f597_strmgtfr.pdf
+file_size: 1899059
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
