@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes special .mat files to suppliment the contents
   in problem set 9.
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/93ad567cb4b9e5b7f9b05bcee01654bf_mnistabridged.mat
+file_size: 4710392
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

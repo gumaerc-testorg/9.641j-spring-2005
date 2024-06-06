@@ -5,6 +5,7 @@ description: 'This resource includes information on idealization of interaction 
   excitatory and inhibitory neuron, dendrodendritic connections between and granule
   (inhibitory) cells, and linear antisymmetric network.'
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/8332a815ae1fc9cda72831442afcb29d_lec13_antisym.pdf
+file_size: 241374
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
