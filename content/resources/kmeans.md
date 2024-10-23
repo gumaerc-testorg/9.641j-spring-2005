@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes special .mat files to suppliment the contents
   in problem set 8.
-file: /courses/9-641j-introduction-to-neural-networks-spring-2005/f5af0e96c22e57b71e85610fef6a767e_kmeans.mat
+file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/f5af0e96c22e57b71e85610fef6a767e_kmeans.mat
 file_size: 7728
 file_type: application/octet-stream
 learning_resource_types:
