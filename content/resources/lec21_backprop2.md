@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on steady state, recurrent backpropagation,
   sensitivity lemma, input as a function of output, and Jacobian matrix.
-file: /courses/9-641j-introduction-to-neural-networks-spring-2005/67a3f09e7a61379cb294e7a7d5ef40a2_lec21_backprop2.pdf
+file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/67a3f09e7a61379cb294e7a7d5ef40a2_lec21_backprop2.pdf
 file_size: 76592
 file_type: application/pdf
 learning_resource_types:
