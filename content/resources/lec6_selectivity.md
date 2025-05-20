@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on lateral inhibition amplifies differences
   relative to commonalities, lateral inhibition regulates response selectivity by
   setting a dynamic threshold, and rectification vs. thresholding.
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/08794f21269029e9a8479198d2b66f55_lec6_selectivity.pdf
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/08794f21269029e9a8479198d2b66f55_lec6_selectivity.pdf
 file_size: 381766
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on linear elastic boundary value problems.
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/553eee220dcb26ea4b6a38b0650ef526_ps7.pdf
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/553eee220dcb26ea4b6a38b0650ef526_ps7.pdf
 file_size: 54486
 file_type: application/pdf
 learning_resource_types:
