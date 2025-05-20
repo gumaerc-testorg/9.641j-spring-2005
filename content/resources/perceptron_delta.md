@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes special .m files to suppliment the contents in
   problem set 9.
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/c2889b24425a8bf683d91b0c36fa96ce_perceptron_delta.m
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/c2889b24425a8bf683d91b0c36fa96ce_perceptron_delta.m
 file_size: 1007
 file_type: text/plain
 learning_resource_types:

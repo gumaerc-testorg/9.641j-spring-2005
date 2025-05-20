@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on decision making, all-to-all inhibition,
   unconditional winner-take-all, differential modes are unstable, and one possible
   winner.
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/4ecd6970366aafed2a6f9c835f753f56_lec6_decisions.pdf
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/4ecd6970366aafed2a6f9c835f753f56_lec6_decisions.pdf
 file_size: 184321
 file_type: application/pdf
 learning_resource_types:

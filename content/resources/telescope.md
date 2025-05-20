@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes special .mat files to suppliment the contents
   in problem set 6.
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/aa9beb10b6e29d8afc3e714bfadfc6e2_telescope.mat
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/aa9beb10b6e29d8afc3e714bfadfc6e2_telescope.mat
 file_size: 2074
 file_type: application/octet-stream
 learning_resource_types:

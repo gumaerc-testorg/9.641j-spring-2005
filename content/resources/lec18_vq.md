@@ -4,7 +4,7 @@ description: 'This resource includes information on hypothesis: Hebbiansynaptic 
   enables a perceptronto compute the mean of its preferred stimuli, sequence of data
   vectors, learn something about their structure, multivariate statistics, and neural
   network algorithms.'
-file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/1059a919d43e97b22e32921f09eedbd7_lec18_vq.pdf
+file: /courses/9-641j-introduction-to-neural-networks-spring-2005/1059a919d43e97b22e32921f09eedbd7_lec18_vq.pdf
 file_size: 83384
 file_type: application/pdf
 learning_resource_types:
