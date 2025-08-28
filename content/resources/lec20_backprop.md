@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on simple vs. multilayer perceptron,
   hidden layer problem, generalized delta rule, derivation as a gradient algoritihm,
   and sensitivity lemma.
-file: /courses/9-641j-introduction-to-neural-networks-spring-2005/5d46d3b6e32a5120fe9893193c31e926_lec20_backprop.pdf
+file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/5d46d3b6e32a5120fe9893193c31e926_lec20_backprop.pdf
 file_size: 310283
 file_type: application/pdf
 learning_resource_types:

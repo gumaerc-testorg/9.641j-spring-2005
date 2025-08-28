@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on maximum operation.
-file: /courses/9-641j-introduction-to-neural-networks-spring-2005/f9809bb709eea9c6f5b9a7dd2e79dec4_lec6_integrator.pdf
+file: /ol-ocw-studio-app/courses/9-641j-introduction-to-neural-networks-spring-2005/f9809bb709eea9c6f5b9a7dd2e79dec4_lec6_integrator.pdf
 file_size: 74272
 file_type: application/pdf
 learning_resource_types:
